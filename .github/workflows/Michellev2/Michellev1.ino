@@ -1,8 +1,6 @@
   /*
-
- Heating Pad Hand Warmer Blanket Code Example
-  SparkFun Electronics, Pamela, 1/24/2013
-  Beerware License
+Tikkun Olam Makers 2/21/2020
+Team Michelle 2 - Mojde Yadollahikhales
 
   Hardware Connections:
   -led1 = D9;
